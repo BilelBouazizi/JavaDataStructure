@@ -1,3 +1,5 @@
+package LinkedList;
+/**p
 public class LinkedList {
 
     Node head;
@@ -28,3 +30,4 @@ public class LinkedList {
     }
 
 }
+**/
