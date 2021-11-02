@@ -1,9 +1,9 @@
 package LinkedList;
 
-;
-/**p
+
+
 public class LinkedListDemo {
-    ublic static void main(String[] args) {
+    public static void main(String[] args) {
         LinkedList ls=new LinkedList(new Node<Integer>(12,null));
         ls.add(new Node<Integer>(11,null));
         ls.add(new Node<Integer>(13,null));
@@ -14,4 +14,4 @@ public class LinkedListDemo {
     }
 
 }
-**/
+

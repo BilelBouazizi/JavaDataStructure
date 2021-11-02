@@ -1,14 +1,11 @@
 package LinkedList;
 
 public class Node<T> {
-    T data;
+    T value;
     Node next;
-
-    // Constructor
-    Node(T d)
-    {
-        data = d;
-        next = null;
+    public  Node(T value, Node next){
+        this.next=next;
+        this.value=value;
     }
 
 
